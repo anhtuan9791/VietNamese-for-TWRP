@@ -31,7 +31,7 @@
 		<string name="adopted_storage">Adopted Storage</string>
 
 		<!-- GUI XML strings -->
-		<string name="twrp_header">Team Win Recovery Project rebuild by MIUI.VN </string>
+		<string name="twrp_header">Team Win Recovery Project</string>
 		<string name="twrp_watch_header">Phiên bản TWRP %tw_phiên bản%</string>
 		<string name="cpu_temp">Nhiệt độ CPU: %tw_cpu_temp% &#xB0;C</string>
 		<string name="battery_pct">Pin: %tw_battery%</string>
